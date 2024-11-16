@@ -35,7 +35,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmirhosseinDehghanazar/Hacker-Terminal-Futuristic-Loading-Screen-Simulation.git
+   git clone https://github.com/AmirhosseinDehghanazar/Hacker-Terminal-Loading-Screen.git
    cd hacker-terminal
    ```
 2. Open `index.html` in your preferred web browser.
